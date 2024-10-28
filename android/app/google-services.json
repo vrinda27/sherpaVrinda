@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28860016816",
+    "project_id": "sherpa-963a3",
+    "storage_bucket": "sherpa-963a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28860016816:android:169eaad783895fc3d6b375",
+        "android_client_info": {
+          "package_name": "com.sherpanew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeIb76Gcpkyoj6_-Pi3nmblqxrZsXXRXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
